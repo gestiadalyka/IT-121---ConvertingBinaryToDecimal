@@ -5,7 +5,7 @@
  * Programmer: Lyka Gestiada
  * Kaye Granado
  * Jorlyn Faith Gona
- * Geselle Gueta
+ * Geselle Goboli
  * Janice Docot
  *
  * Class: IT 121 Instructor: John Mark D. Gabrentina
